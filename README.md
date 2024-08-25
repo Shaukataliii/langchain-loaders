@@ -1,4 +1,5 @@
-# For each document loader in LangChain, you should focus on the following aspects:
+## Things to focus on.
+For each document loader in LangChain, you should focus on the following aspects:
 
 ### Supported File Types:
 Identify what file formats the loader can handle (e.g., PDFs, Word docs, CSVs).
