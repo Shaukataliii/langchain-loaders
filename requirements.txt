@@ -1,0 +1,10 @@
+ipykernel
+unstructured
+libmagic
+pypdf
+rapidocr-onnxruntime
+pdfminer.six
+PyMuPDF
+pdfplumber
+camelot-py
+unstructured
