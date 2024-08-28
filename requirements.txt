@@ -7,4 +7,4 @@ pdfminer.six
 PyMuPDF
 pdfplumber
 camelot-py
-unstructured
+unstructured[all-docs]
